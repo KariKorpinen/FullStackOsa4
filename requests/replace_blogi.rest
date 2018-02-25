@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/1 
+content-type: application/json
+
+{
+   "title": "Villen toka blogi",
+   "author": "Ville",
+   "url": http://localhost",
+   "likes": 10
+}
